@@ -79,6 +79,7 @@ export default {
     cssLoader: {
         localsConvention: 'camelCase',
     },
+    dynamicImport: {},
     styles: [
         `
         .__dumi-default-layout-hero {
