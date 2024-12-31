@@ -44,6 +44,9 @@ export default {
     ],
     favicon: `${globalSettings.context?.root}/favicon.ico`,
     links: [
+        { rel: 'apple-touch-icon', type: 'image/png', href: `${globalSettings.context?.assets}/ico/iphone-retina-180×180.png`, sizes: '180×180' },
+        { rel: 'apple-touch-icon', type: 'image/png', href: `${globalSettings.context?.assets}/ico/ipad-retina-167×167.png`, sizes: '167×167' },
+        { rel: 'apple-touch-icon', type: 'image/png', href: `${globalSettings.context?.assets}/ico/android-192x192.png`, sizes: '192x192' },
         { rel: 'icon', type: 'image/svg+xml', href: `${globalSettings.context?.assets}/ico/logo-icon.svg` },
         { rel: 'fluid-icon', type: 'image/svg+xml', href: `${globalSettings.context?.assets}/ico/logo-icon.svg` },
         { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.font.im/css?family=Comfortaa' },
