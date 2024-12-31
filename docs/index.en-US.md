@@ -22,4 +22,4 @@ footer: Open-source MIT Licensed<br/>Copyright © 2023 Yookue Ltd. All rights re
 
 ## Feedback
 
-Please visit [GitHub](https://github.com/yookue/official-site) to post issues or join the discussing.
+Please visit [GitHub](https://github.com/yookue) to post issues or join the discussing.

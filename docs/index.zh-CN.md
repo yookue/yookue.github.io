@@ -23,4 +23,4 @@ footer: Open-source MIT Licensed<br/>版权所有 © 2023 北京攸科网络科�
 
 ## 反馈
 
-请访问 [GitHub](https://github.com/yookue/official-site) 反馈问题或参与讨论。
+请访问 [GitHub](https://github.com/yookue) 反馈问题或参与讨论。
