@@ -1,5 +1,5 @@
 ---
-title: Yookue - 優秀的開源軟件提供商
+title: Yookue Limited
 order: 1
 hero:
   title: Yookue 攸科

@@ -1,5 +1,5 @@
 ---
-title: Yookue - Awesome Open-Source Software Provider
+title: Yookue Limited
 order: 1
 hero:
   title: Yookue Limited
