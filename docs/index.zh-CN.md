@@ -1,5 +1,5 @@
 ---
-title: Yookue Limited
+title: 首页
 order: 1
 hero:
   title: Yookue 攸科
@@ -17,10 +17,10 @@ features:
   - icon: ./assets/img/home/green-leaf-1.png
     title: 主题支持
     desc: 🎨 支持定制主题样式，更多样式，随心控制
-footer: Open-source MIT Licensed<br/>版权所有 © 2023 北京攸科网络科技有限公司
+footer: Opensource MIT Licensed<br/>版权所有 © 2023 北京攸科网络科技有限公司
 ---
 
 
 ## 反馈
 
-请访问 [GitHub](https://github.com/yookue) 反馈问题或参与讨论。
+请访问 [GitHub](https://github.com/yookue/yookue.github.io) 反馈问题或参与讨论。

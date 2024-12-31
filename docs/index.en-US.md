@@ -1,9 +1,9 @@
 ---
-title: Yookue Limited
+title: Home
 order: 1
 hero:
   title: Yookue Limited
-  desc: 🏅 Awesome Open-Source Software Provider ❤️
+  desc: 🏅 Awesome Opensource Software Provider ❤️
   actions:
   - text: About Us
     link: /about
@@ -17,9 +17,9 @@ features:
   - icon: ./assets/img/home/green-leaf-1.png
     title: Theme support
     desc: 🎨 Theme capabilities, for customizing complete theme components, are up to you
-footer: Open-source MIT Licensed<br/>Copyright © 2023 Yookue Ltd. All rights reserved
+footer: Opensource MIT Licensed<br/>Copyright © 2023 Yookue Ltd. All rights reserved
 ---
 
 ## Feedback
 
-Please visit [GitHub](https://github.com/yookue) to post issues or join the discussing.
+Please visit [GitHub](https://github.com/yookue/yookue.github.io) to post issues or join the discussing.

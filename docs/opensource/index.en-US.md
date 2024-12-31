@@ -1,15 +1,15 @@
 ---
-title: Open Source
+title: Opensource
 order: 1
 toc: false
 nav:
-  title: Open Source
+  title: Opensource
   order: 1
 ---
 
-## Open Source
+## Opensource
 
-Here are some open-source repos of Yookue Ltd.
+Here are some opensource repos of Yookue Ltd.
 
   - **ant-buddy-pro**
     - GitHub: [https://github.com/yookue/ant-buddy-pro](https://github.com/yookue/ant-buddy-pro)

@@ -1,9 +1,9 @@
 ---
-title: About Us
+title: About
 order: 1
 toc: false
 nav:
-  title: About Us
+  title: About
   order: 9
 ---
 
