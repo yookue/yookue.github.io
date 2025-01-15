@@ -15,6 +15,10 @@ Here are some opensource repos of Yookue Ltd.
     - GitHub: [https://github.com/yookue/ant-buddy-pro](https://github.com/yookue/ant-buddy-pro)
     - NPM: [https://www.npmjs.com/package/@yookue/ant-buddy-pro](https://www.npmjs.com/package/@yookue/ant-buddy-pro)
 
+  - **ant-vision-zoo**
+    - GitHub: [https://github.com/yookue/ant-vision-zoo](https://github.com/yookue/ant-vision-zoo)
+    - NPM: [https://www.npmjs.com/package/@yookue/ant-vision-zoo](https://www.npmjs.com/package/@yookue/ant-vision-zoo)
+
   - **ts-lang-utils**
     - GitHub: [https://github.com/yookue/ts-lang-utils](https://github.com/yookue/ts-lang-utils)
     - NPM: [https://www.npmjs.com/package/@yookue/ts-lang-utils](https://www.npmjs.com/package/@yookue/ts-lang-utils)
