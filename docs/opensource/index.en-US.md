@@ -15,10 +15,6 @@ Here are some opensource repos of Unikue Ltd.
     - GitHub: [https://github.com/unikueltd/ant-buddy-pro](https://github.com/unikueltd/ant-buddy-pro)
     - NPM: [https://www.npmjs.com/package/@unikue/ant-buddy-pro](https://www.npmjs.com/package/@unikue/ant-buddy-pro)
 
-  - **ant-vision-zoo**
-    - GitHub: [https://github.com/unikueltd/ant-vision-zoo](https://github.com/unikueltd/ant-vision-zoo)
-    - NPM: [https://www.npmjs.com/package/@unikue/ant-vision-zoo](https://www.npmjs.com/package/@unikue/ant-vision-zoo)
-
   - **ts-lang-utils**
     - GitHub: [https://github.com/unikueltd/ts-lang-utils](https://github.com/unikueltd/ts-lang-utils)
     - NPM: [https://www.npmjs.com/package/@unikue/ts-lang-utils](https://www.npmjs.com/package/@unikue/ts-lang-utils)
