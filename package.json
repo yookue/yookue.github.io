@@ -1,23 +1,23 @@
 {
-    "name": "yookue.github.io",
-    "version": "0.1.0",
-    "title": "Yookue Official Site",
+    "name": "unikueltd.github.io",
+    "version": "1.0.0",
+    "title": "Unikue Official Site",
     "description": "Awesome Open-Source Software Provider",
-    "homepage": "https://yookue.github.io/official-site",
-    "organization": "Yookue Ltd",
+    "homepage": "https://unikueltd.github.io",
+    "organization": "Unikue Ltd",
     "private": true,
     "license": "MIT",
     "keywords": [
-        "yookue",
-        "yookue-official-site"
+        "unikue",
+        "unikue-official-site"
     ],
     "files": [
         "dist"
     ],
     "scripts": {
-        "start": "set NODE_OPTIONS=--openssl-legacy-provider && dumi dev",
+        "start": "NODE_OPTIONS=--openssl-legacy-provider dumi dev",
         "build:watch": "father dev",
-        "docs:build": "set NODE_OPTIONS=--openssl-legacy-provider && del-cli ./docs-dist && dumi build",
+        "docs:build": "del-cli ./docs-dist && NODE_OPTIONS=--openssl-legacy-provider dumi build",
         "docs:publish": "gh-pages -d ./docs-dist"
     },
     "devDependencies": {
@@ -27,15 +27,28 @@
         "gh-pages": "^6.3.0"
     },
     "peerDependencies": {
-        "typescript": ">= 4"
+        "typescript": ">=4"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yookue/official-site.git"
+        "url": "git+https://github.com/unikueltd/unikueltd.github.io.git"
     },
     "bugs": {
-        "url": "https://github.com/yookue/official-site/issues"
+        "url": "https://github.com/unikueltd/unikueltd.github.io/issues"
     },
+    "collective": {
+        "url": "https://opencollective.com/unikue-awesome"
+    },
+    "funding": [
+        {
+            "type": "opencollective",
+            "url": "https://opencollective.com/unikue-awesome"
+        },
+        {
+            "type": "individual",
+            "url": "https://unikue.cn/donation"
+        }
+    ],
     "browserslist": {
         "production": [
             "> 0.2%",
@@ -49,9 +62,9 @@
         ]
     },
     "author": {
-        "name": "Yookue Ltd",
-        "email": "yookue@outlook.com",
-        "url": "https://yookue.com"
+        "name": "Unikue Ltd",
+        "email": "unikue@yeah.net",
+        "url": "https://unikue.cn"
     },
     "contributors": [
         {

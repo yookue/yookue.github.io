@@ -15,5 +15,5 @@ nav:
 
 您可以通過以下方式訪問我們：
 
-- Yookue: [https://yookue.com](https://yookue.com)
-- GitHub: [https://github.com/yookue](https://github.com/yookue)
+- Unikue: [https://unikue.cn](https://unikue.cn)
+- GitHub: [https://github.com/unikue](https://github.com/unikue)

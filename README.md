@@ -1,11 +1,11 @@
-# Yookue
+# Unikue
 
-🏅 Official Site for Yookue Ltd. ❤️
+🏅 Official Site for Unikue Ltd. ❤️
 
 ## Copyright
 
-Beijing Yookue Network Technology Ltd.
+Beijing Unikue Network Technology Ltd.
 
 ## Website
 
-- Yookue: [https://yookue.com](https://yookue.com)
+- Unikue: [https://unikue.cn](https://unikue.cn)

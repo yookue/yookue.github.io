@@ -1,4 +1,4 @@
-# Yookue
+# Unikue
 
 🏅 攸科的官方網站 ❤️
 
@@ -8,4 +8,4 @@
 
 ## 網站
 
-- Yookue: [https://yookue.com](https://yookue.com)
+- Unikue: [https://unikue.cn](https://unikue.cn)
