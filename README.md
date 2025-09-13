@@ -1,6 +1,6 @@
 # Unikue
 
-🏅 Official Site for Unikue Ltd. ❤️
+🏅 Github Site for Unikue Ltd. ❤️
 
 ## Copyright
 
