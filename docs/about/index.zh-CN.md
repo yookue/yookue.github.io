@@ -16,4 +16,4 @@ nav:
 您可以通过以下方式访问我们：
 
 - Unikue: [https://unikue.cn](https://unikue.cn)
-- GitHub: [https://github.com/unikue](https://github.com/unikue)
+- GitHub: [https://github.com/unikueltd](https://github.com/unikueltd)

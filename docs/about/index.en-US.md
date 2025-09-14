@@ -16,4 +16,4 @@ Beijing Unikue Network Technology Ltd.
 You can visit us at:
 
 - Unikue: [https://unikue.cn](https://unikue.cn)
-- GitHub: [https://github.com/unikue](https://github.com/unikue)
+- GitHub: [https://github.com/unikueltd](https://github.com/unikueltd)
