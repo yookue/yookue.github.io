@@ -1,6 +1,6 @@
 {
     "name": "unikueltd.github.io",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "title": "Unikue Official Site",
     "description": "Awesome Open-Source Software Provider",
     "homepage": "https://unikueltd.github.io",
@@ -21,7 +21,7 @@
         "docs:publish": "gh-pages -d ./docs-dist"
     },
     "devDependencies": {
-        "del-cli": "^6.0.0",
+        "del-cli": "^7.0.0",
         "dumi": "^1.1.54",
         "typescript": "^4.9.5",
         "gh-pages": "^6.3.0"
